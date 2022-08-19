@@ -1,7 +1,8 @@
 require_relative 'MyEnumerable'
 
 class MyList 
-    def initialize(list)
+    include MyEnumerable
+    def initialize(*list)
         @list = list
     end
     def each
@@ -9,6 +10,3 @@ class MyList
         list_length.times { |i| yield @list[i]}
     end
 end
-
-
-list = MyList.new(1, 2, 3, 4)
