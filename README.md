@@ -1,56 +1,39 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Enumerable
+Learning on how to use a module inside classes. We have created a class 'MyList' and a module 'MyEnumerable'. The module MyEnumerable implements a subset of the functionality of Enumerable.
 
-# Project Name
+## Built With:
+- Ruby
 
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
+## Getting Started:
+To access and change the code on your computer (using GIT):
+> Note: if you don't use git, you can download the ZIP of this repository by clicking on the "Code" button above the files list.
 ### Setup
-
-### Install
-
+- Open the repository [link](https://github.com/kiboma2021/Enumerable).
+- Click on the "Code" button, above the files list.
+- Select one of the three options to copy the URL: HTTPS, SSH key and GitHub CLI.
+- Open the Terminal in the directory you want to copy the project.
+- Type git clone, paste the URL you copied, and press enter.
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+To edit this project:
+- Open the repository you cloned with a code editor that you like.
+- Edit the code as you want.
 
 ## Authors
 
-👤 **Author1**
+👤 **Darik Mohammed**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/darikmohammed)
+- Twitter: [@twitterhandle](https://twitter.com/r_darik)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/darik-mohammed/)
 
-👤 **Author2**
+## Contributor
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Ben Kiboma**
+
+- GitHub: [@kiboma2021](https://github.com/kiboma2021)
+- Twitter: [@BenOmayio](https://twitter.com/omayiobenj)
+- LinkedIn: [@BenOmayio](https://www.linkedin.com/in/ben-kiboma/)
+
 
 ## 🤝 Contributing
 
@@ -70,6 +53,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
